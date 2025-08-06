@@ -1,5 +1,7 @@
 # Challenge Telecom X
 #### OBJETIVO
+La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes.
+
 Recopilar, procesar y analizar los datos, para extraer información valiosa. A partir de este análisis, el equipo de Data Science podrá avanzar en modelos predictivos y desarrollar estrategias para reducir la evasión.
 <br/><br/>
 #### ESTRUCTURA DEL PROYECTO
